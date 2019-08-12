@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: ac173f42c2ab1db44b22fdc339f125c9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: T-34_Mesh01
+    100004: T-34_Mesh02
+    100006: T-34_Mesh03
+    100008: T-34_Mesh04
+    100010: T-34_Mesh05
+    100012: T-34_Mesh06
+    100014: T-34_Mesh07
+    100016: T-34_Mesh08
+    100018: T-34_Mesh09
+    100020: T-34_Mesh10
+    100022: T-34_Mesh11
+    100024: T-34_Mesh12
+    100026: T-34_Mesh13
+    100028: T-34_Mesh14
+    100030: T-34_Object01
+    400000: //RootNode
+    400002: T-34_Mesh01
+    400004: T-34_Mesh02
+    400006: T-34_Mesh03
+    400008: T-34_Mesh04
+    400010: T-34_Mesh05
+    400012: T-34_Mesh06
+    400014: T-34_Mesh07
+    400016: T-34_Mesh08
+    400018: T-34_Mesh09
+    400020: T-34_Mesh10
+    400022: T-34_Mesh11
+    400024: T-34_Mesh12
+    400026: T-34_Mesh13
+    400028: T-34_Mesh14
+    400030: T-34_Object01
+    2300000: T-34_Mesh01
+    2300002: T-34_Mesh02
+    2300004: T-34_Mesh03
+    2300006: T-34_Mesh04
+    2300008: T-34_Mesh05
+    2300010: T-34_Mesh06
+    2300012: T-34_Mesh07
+    2300014: T-34_Mesh08
+    2300016: T-34_Mesh09
+    2300018: T-34_Mesh10
+    2300020: T-34_Mesh11
+    2300022: T-34_Mesh12
+    2300024: T-34_Mesh13
+    2300026: T-34_Mesh14
+    2300028: T-34_Object01
+    3300000: T-34_Mesh01
+    3300002: T-34_Mesh02
+    3300004: T-34_Mesh03
+    3300006: T-34_Mesh04
+    3300008: T-34_Mesh05
+    3300010: T-34_Mesh06
+    3300012: T-34_Mesh07
+    3300014: T-34_Mesh08
+    3300016: T-34_Mesh09
+    3300018: T-34_Mesh10
+    3300020: T-34_Mesh11
+    3300022: T-34_Mesh12
+    3300024: T-34_Mesh13
+    3300026: T-34_Mesh14
+    3300028: T-34_Object01
+    4300000: T-34_Mesh01
+    4300002: T-34_Mesh02
+    4300004: T-34_Mesh03
+    4300006: T-34_Mesh04
+    4300008: T-34_Mesh05
+    4300010: T-34_Mesh06
+    4300012: T-34_Mesh07
+    4300014: T-34_Mesh08
+    4300016: T-34_Mesh09
+    4300018: T-34_Mesh10
+    4300020: T-34_Mesh11
+    4300022: T-34_Mesh12
+    4300024: T-34_Mesh13
+    4300026: T-34_Mesh14
+    4300028: T-34_Object01
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh01Mat
+    second: {fileID: 2100000, guid: 494fdfe0f33a7b24cbddf5179e0e9aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh02Mat
+    second: {fileID: 2100000, guid: e728aaabc68b9b04eb79d948bc562ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh03Mat
+    second: {fileID: 2100000, guid: 2f7324f15c68d5f48b81a425217c24e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh04Mat
+    second: {fileID: 2100000, guid: a4d5d1e01d8f3a849963f2c6a89f166c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh05Mat
+    second: {fileID: 2100000, guid: a5438a1e58d7238468a027525ae82752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh06Mat
+    second: {fileID: 2100000, guid: 5b3bfe3ed6698374cb6c67b69462fd1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh07Mat
+    second: {fileID: 2100000, guid: 2da0e8bd7211eab42899bd0ce0013c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh08Mat
+    second: {fileID: 2100000, guid: 48c221058c666a24c90c4b4b0b8d5adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh09Mat
+    second: {fileID: 2100000, guid: d7d4ca6ec002e5c4093db2202836babe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh10Mat
+    second: {fileID: 2100000, guid: 895ade55068ada24dbfbaae8c1f74d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh11Mat
+    second: {fileID: 2100000, guid: 448c3df0081d4d847983da13c34e40a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh12Mat
+    second: {fileID: 2100000, guid: e283bc27296975345a5c6ef0bb4846bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh13Mat
+    second: {fileID: 2100000, guid: 91116e3e60ff87e4897726fca4da4cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Mesh14Mat
+    second: {fileID: 2100000, guid: dbb36f4eb2648f14ba551b4da31eba8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T-34_Object01Mat
+    second: {fileID: 2100000, guid: 211d0a849d8e8a640911dabce8753674, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
