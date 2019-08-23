@@ -12,7 +12,7 @@ Here's a gif of a tank getting hit and penetrated, with the swap to the internal
 
 Early pic of the path planning:
 
-![alt text](https://brokenforum.com/index.php?attachments/radialwidth-png "Thick radial path")
+![Early Prototype](https://github.com/Joverral/TankLords/blob/master/EarlyPathPlannerProto.png "Thick radial path")
 
 
 
