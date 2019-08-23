@@ -10,3 +10,9 @@ Here's a gif of a tank getting hit and penetrated, with the swap to the internal
 
 ![alt text](https://www.gamedev.net/uploads/blogs/monthly_09_2015/blogentry-216013-0-18005600-1442200432.gif "Hit!")
 
+Early pic of the path planning:
+
+![alt text](https://https://brokenforum.com/index.php?attachments/radialwidth-png.54615/ "Thick radial path")
+
+
+
